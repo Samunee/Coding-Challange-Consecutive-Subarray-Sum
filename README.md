@@ -14,9 +14,10 @@ Program ini menggunakan fungsi `maxSubarraySum(nums)` yang mengambil larik bilan
 
 ## Contoh Input-Output
 
-Input:
+Input: <br>
 `6` <br>
 `-2 1 -3 4 -1 2 1 -5 4` <br>
+
 Output: `Output: Maximum Sum: 6`
 
 Penjelasan: Sublarik/subarray dengan jumlah maksimum adalah `4 -1 2 1`, dan jumlahnya adalah `6`.
